@@ -1,0 +1,25 @@
+h1{
+    background: red;
+}
+
+.paragrath_2 {
+    border: 10px solid yellow;
+    border-radius: 15px;
+}
+
+.paragrath_3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Courier New;
+}
+
+.teg_P_1 {
+    font-size: 24px;
+    font-style: italic;
+    padding-left: 15px;
+    text-align: center;
+    text-shadow: 1px 1px 2px green;
+}
+
+
+
